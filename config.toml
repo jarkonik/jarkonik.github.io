@@ -1,0 +1,35 @@
+# The URL the site will be built for
+title = "useless code"
+base_url = "http://jarkonik.github.io"
+theme = "anatole-zola"
+default_language = "en"
+
+taxonomies = [
+    {name = "tags"},
+]
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[extra]
+# Put all your custom variables here
+mode = "dark"
+
+[languages.en.translations]
+language_name = "English"
+about = "About"
+home = "Home"
+tags = "Tags"
+archive = "Archive"
+links = "Links"
+date_format = "%Y-%m-%d"
+next_page = "Next Page"
+last_page = "Last Page"
