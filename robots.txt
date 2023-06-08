@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: http://jarkonik.github.com/sitemap.xml
