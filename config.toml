@@ -24,7 +24,7 @@ highlight_code = true
 mode = "dark"
 
 [extra.social]
-github = "https://github.com/jarkonik"
+github = "jarkonik"
 
 [languages.en.translations]
 language_name = "English"
