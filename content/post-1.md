@@ -5,7 +5,7 @@ date = 2020-01-02T15:00:00Z
 [taxonomies]
 tags = ["projects", "embeded", "rust", "esp32"]
 [extra]
-summary = "A personal project of mine - a device that allows maintaing constaint soil moisture for a plant. Including a small OLED screen, web interface, persistent storage. Built on top of ESP32 platform."
+summary = "A personal project of mine - a device that allows maintaing constaint soil moisture for a plant. Including a small OLED screen, web interface, persistent storage. Built in Rust on top of ESP32 platform using an excellent embasy suite."
 mathjax = "tex-mml"
 cover_image = "images/post-1/cover.jpg"
 +++
