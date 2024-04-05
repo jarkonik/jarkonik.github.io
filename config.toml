@@ -23,6 +23,9 @@ highlight_code = true
 # Put all your custom variables here
 mode = "dark"
 
+[extra.social]
+github = "https://github.com/jarkonik"
+
 [languages.en.translations]
 language_name = "English"
 about = "About"
