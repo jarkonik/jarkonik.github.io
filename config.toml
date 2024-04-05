@@ -1,6 +1,6 @@
 # The URL the site will be built for
 title = "useless code"
-base_url = "http://jarkonik.github.io"
+base_url = "https://jarkonik.github.io"
 theme = "anatole-zola"
 default_language = "en"
 
