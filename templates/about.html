@@ -1,0 +1,13 @@
+{% extends "basic.html" %}
+
+{% block extra_head %}
+  <link rel="stylesheet" href="{{ get_url(path="additional_style.css") }}">
+{% endblock extra_head %}
+
+{% block content %}
+<article class="post animated fadeInDown">
+  <div class="avatar"><img src="{{ get_url(path="images/avatar.jpg") }}"></div>
+  <h1><a href="{{ section.permalink }}"> {{ trans(key="about", lang=lang) }} </a></h1>
+  <div class="post-content">{{ section.content | safe }}</div>
+</article>
+{% endblock content %}
