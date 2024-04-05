@@ -1,5 +1,9 @@
 {% extends "basic.html" %}
 
+{% block extra_head %}
+  <link rel="stylesheet" href="{{ get_url(path="additional_style.css") }}">
+{% endblock extra_head %}
+
 {% block content %}
     {% for page in paginator.pages %}
       <section class="post animated fadeInDown">
