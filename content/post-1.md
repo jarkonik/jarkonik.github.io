@@ -20,7 +20,7 @@ I've wanted to get more into embedded programming for quite some time. I've comp
 
 # The cheapest computer I've ever owned - ESP32 DevkitC
 
-My platform of choice, that I've landed on by exploring Amazon listings and cross-referencing with Rust target support tables, came to be the ESP32 by Espressif. It has lots of IO pins, built in bluetooth(including BLE), WiFi and lots of other peripherals(clocks, ADCs etc.) I've bough a 3-pack of ESP32 DevKitC's manufactured by a German company called AZDelivery. The company maintains an extensive stock of various electonics equipment and components that it sells either directly through their website or through Amazon. I've chosen going through Amazon for my purchase.
+My platform of choice, that I've landed on by exploring Amazon listings and cross-referencing with Rust target support tables, came to be the ESP32 by Espressif. It has lots of IO pins, built in bluetooth(including BLE), WiFi and lots of other peripherals(clocks, ADCs etc.) I've bough a 3-pack of ESP32 DevKitC's manufactured by a German company called AZDelivery. The company maintains an extensive stock of various electonics equipment and components that it sells either directly through their website or through Amazon. I've chosen to go through Amazon for my purchase.
 LINK TO AMAZON HERE AND MENTION THE PRICE
 
 # no_std Rust on espressif ESP32 fork
