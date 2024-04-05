@@ -4,9 +4,9 @@ template = "about.html"
 paginate_by = 0
 +++
 
-On Github: https://github.com/jarkonik
+Hello! My name is Jaroslaw Konik.
 
-Passionate and innovative Software Developer with many years of professional experience in multiple languages and tech stacks, including among others Rust, Golang, Ruby, TypeScript, C#, and C++. Adept at creating cutting-edge software solutions, experimenting with new technologies, and contributing to open-source projects. Enthusiastic about 2D and 3D graphics, cloud-based applications, and software development challenges.
+I'm a passionate and innovative Software Developer with many years of professional experience in multiple languages and tech stacks, including among others Rust, Golang, Ruby, TypeScript, C#, and C++. Adept at creating cutting-edge software solutions, experimenting with new technologies, and contributing to open-source projects. Enthusiastic about 2D and 3D graphics, cloud-based applications, and software development challenges.
 
 I have practical knowledge of various computer engineering domains and concepts including, but not limited to:
 
@@ -32,11 +32,3 @@ I have practical knowledge of various computer engineering domains and concepts 
 - Used container solutions: podman, docker, k8s and other accompanying technologies
 - Travelled to USA and Canada for work trips/client meetings
 - Many years of Linux experience
-
-I've created or made contributions to following OSS projects:
-https://github.com/jarkonik/rocklang (My project, Programming language + JIT compiler in Rust)
-https://github.com/jarkonik/bevy_scriptum (My project, Scripting library for a game engine in Rust)
-https://github.com/jarkonik/raytracer (My project, Simple raytracer in Rust)
-https://github.com/boa-dev/boa (JavaScript interpreted in Rust)
-https://github.com/uutils/coreutils (Coreutils implementation in Rust)
-https://github.com/chronotope/chrono (Date and time library for Rust)
