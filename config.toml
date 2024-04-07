@@ -1,5 +1,5 @@
 # The URL the site will be built for
-title = "useless code - Jaroslaw Konik's personal blog"
+title = "junky code - Jaroslaw Konik's personal blog"
 base_url = "https://jarkonik.github.io"
 theme = "anatole-zola"
 default_language = "en"
