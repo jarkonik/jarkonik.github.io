@@ -1,6 +1,6 @@
 # The URL the site will be built for
 title = "junky code - Jaroslaw Konik's personal blog"
-base_url = "https://junkycode.com"
+base_url = "https://www.junkycode.com"
 theme = "anatole-zola"
 default_language = "en"
 
