@@ -2,6 +2,7 @@
 title = "Trevi - a slightly overengineered plant watering device"
 template = "page.html"
 date = 2024-04-05T17:38:00Z
+draft = true
 [taxonomies]
 tags = ["projects", "embeded", "rust", "esp32"]
 [extra]
